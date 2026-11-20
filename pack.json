@@ -13,14 +13,40 @@
   "requires": [],
   "incompatible": [],
   "credits": [
-    { "mod": "zzz_ mods (Josh's own)", "author": "Josh", "permission": "own" },
-    { "mod": "AEC mods", "author": "Aeclipse", "permission": "yes", "note": "Redistribution permission given to Josh" },
-    { "mod": "Undead Legacy", "author": "Subquake", "permission": "unknown" },
-    { "mod": "Project Z", "author": "BlackRabbitMsk", "permission": "unknown" },
-    { "mod": "Izayo weapon packs", "author": "Izayo", "permission": "unknown" },
-    { "mod": "Pants Weapon Pack", "author": "Pants", "permission": "unknown" }
+    {
+      "mod": "zzz_ mods (Josh's own)",
+      "author": "Josh",
+      "permission": "own"
+    },
+    {
+      "mod": "AEC mods",
+      "author": "Aeclipse",
+      "permission": "yes",
+      "note": "Redistribution permission given to Josh"
+    },
+    {
+      "mod": "Undead Legacy",
+      "author": "Subquake",
+      "permission": "unknown"
+    },
+    {
+      "mod": "Project Z",
+      "author": "BlackRabbitMsk",
+      "permission": "unknown"
+    },
+    {
+      "mod": "Izayo weapon packs",
+      "author": "Izayo",
+      "permission": "unknown"
+    },
+    {
+      "mod": "Pants Weapon Pack",
+      "author": "Pants",
+      "permission": "unknown"
+    }
   ],
   "links": {
     "issues": "https://github.com/joshcarterky/Undead-Mod-Pack/issues"
-  }
+  },
+  "signingKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEViISB6mWXcbVBeG1BsfK4HuyUCWNEhDVbQMipaFmePXyXLhHuDwizvHuZWIeXUKdMXsCQsxtyrsGKsMKKEO1Kw=="
 }
