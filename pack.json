@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "id": "joshcarterky.undead-mod-pack",
+  "name": "Undead Mod Pack",
+  "description": "Undead Legacy plus AEC, Project Z, Izayo and Pants weapons, legendary melee weapons and Josh's own zzz_ mods, tuned to work together. Built for Josh's dedicated server; also plays single player.",
+  "author": "Josh (joshcarterky)",
+  "game": "7dtd",
+  "gameVersion": "V 2.6 b14",
+  "steamBranch": "v2.6",
+  "category": "Overhaul",
+  "sides": "both",
+  "accentColor": "#9be15d",
+  "requires": [],
+  "incompatible": [],
+  "credits": [
+    { "mod": "zzz_ mods (Josh's own)", "author": "Josh", "permission": "own" },
+    { "mod": "AEC mods", "author": "Aeclipse", "permission": "yes", "note": "Redistribution permission given to Josh" },
+    { "mod": "Undead Legacy", "author": "Subquake", "permission": "unknown" },
+    { "mod": "Project Z", "author": "BlackRabbitMsk", "permission": "unknown" },
+    { "mod": "Izayo weapon packs", "author": "Izayo", "permission": "unknown" },
+    { "mod": "Pants Weapon Pack", "author": "Pants", "permission": "unknown" }
+  ],
+  "links": {
+    "issues": "https://github.com/joshcarterky/Undead-Mod-Pack/issues"
+  }
+}
