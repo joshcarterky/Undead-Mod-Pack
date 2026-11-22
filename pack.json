@@ -48,5 +48,23 @@
   "links": {
     "issues": "https://github.com/joshcarterky/Undead-Mod-Pack/issues"
   },
-  "signingKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEViISB6mWXcbVBeG1BsfK4HuyUCWNEhDVbQMipaFmePXyXLhHuDwizvHuZWIeXUKdMXsCQsxtyrsGKsMKKEO1Kw=="
+  "signingKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEViISB6mWXcbVBeG1BsfK4HuyUCWNEhDVbQMipaFmePXyXLhHuDwizvHuZWIeXUKdMXsCQsxtyrsGKsMKKEO1Kw==",
+  "notices": [
+    {
+      "id": "install-undead-legacy",
+      "kind": "required",
+      "title": "Install Undead Legacy first",
+      "text": "This pack is built on Undead Legacy, which needs its own loader (BepInEx) in your game folder. ModCrypt can't install that part for you.\n\n1. Download Undead Legacy from its official website.\n2. From that download, copy the BepInEx folder, the doorstop_libs folder, doorstop_config.ini and winhttp.dll into your 7 Days to Die folder (the folder with 7DaysToDie.exe).\n3. Then install this pack in ModCrypt. ModCrypt keeps everything else updated.\n\nServer owners: copy the same four items next to 7DaysToDieServer.exe.",
+      "url": "https://ul.subquake.com",
+      "urlLabel": "Open the Undead Legacy website",
+      "firstTime": true,
+      "for": "all"
+    }
+  ],
+  "extraLinks": [
+    {
+      "label": "Undead Legacy website",
+      "url": "https://ul.subquake.com"
+    }
+  ]
 }
